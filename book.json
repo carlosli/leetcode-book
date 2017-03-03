@@ -1,16 +1,8 @@
 {
     "language" : "cn",
-    "author" : "carlosli",
-    "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
-        },
-        "sidebar": {
-            "Carlosli's Github": "https://github.com/carlosli"
+    "links" : {
+        "sidebar" : {
+            "carlosli's Github" : "https://github.com/carlosli"
         }
     }
 }
